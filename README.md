@@ -1,4 +1,4 @@
-# Opengl  World of Tanks
+# OpenGL  World of Tanks
 
 Using the OpenGL Framework, this program implements the core mechanics of World of Tanks.
 
